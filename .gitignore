@@ -94,9 +94,9 @@ ENV/
 
 
 # Temporary data files
-notebooks/recipeitems-latest.json
-notebooks/FremontBridge.csv
-notebooks/gistemp250.nc
-notebooks/marathon-data.csv
-notebooks/my_figure.png
-notebooks/hello.png
+book/notebooks/recipeitems-latest.json
+book/notebooks/FremontBridge.csv
+book/notebooks/gistemp250.nc
+book/notebooks/marathon-data.csv
+book/notebooks/my_figure.png
+book/notebooks/hello.png
